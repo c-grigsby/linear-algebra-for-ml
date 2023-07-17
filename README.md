@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/LA-DL_Square_Banner_800x800.png" width="350" alt="Linear Algebra for ML">
+<img src="images/LA-DL_Square_Banner_800x800.png" width="320" alt="Linear Algebra for ML">
 
 # Linear Algebra for ML
 
