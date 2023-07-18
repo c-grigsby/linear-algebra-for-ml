@@ -4,7 +4,7 @@
 
 # Linear Algebra for ML
 
-A collection of supporting labs for the course _Linear Algebra for Machine Learning and Data Science_ from DeepLearning.AI
+Supporting labs and keynotes for the course _Linear Algebra for Machine Learning and Data Science_ from DeepLearning.AI
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
