@@ -12,4 +12,6 @@ Supporting labs and keynotes for the course _Linear Algebra for Machine Learning
 
 ### [Week 1: Systems of Linear Equations](week1/README.md)
 
+### [Week 2: Solving Systems of Linear Equations](week2/README.md)
+
 </div>
