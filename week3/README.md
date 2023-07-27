@@ -14,3 +14,7 @@ An individual instance (observation) of data is typically represented as a vecto
 - Multiply matrices and vectors
 - Represent a system of linear equations as a linear transformation on a vector
 - Calculate the inverse of a matrix, if it exists
+
+## Keynote
+
+- [Week 3 Slides](./slides/Week3-Linear-Algebra-Keynote.pdf)
