@@ -10,8 +10,8 @@ In this week, you will learn how to solve a system of linear equations using the
 
 ## Labs
 - [Solving Linear Systems: 3 variables](./notebooks/lab1_w2_solving_linear_systems_3vars.ipynb)
-- [Programming Assignment](./notebooks/lab2_w2_assignment.ipynb)
-- [Programming Assignment: Solution](./notebooks/solution/lab2_w2_assignment_solved.ipynb)
+- [Assignment: Systems of Linear Equations](./notebooks/lab2_w2_assignment.ipynb)
+- [Assignment: Solution](./notebooks/solution/lab2_w2_assignment_solved.ipynb)
 
 ## Learning Objectives
 
