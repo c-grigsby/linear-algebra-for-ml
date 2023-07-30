@@ -12,7 +12,7 @@ An individual instance (observation) of data is typically represented as a vecto
 - [Vector Operations](./notebooks/lab1_w3_vector_operations.ipynb)
 - [Matrix Multiplication](./notebooks/lab2_w3_matrix_multiplication.ipynb)
 - [Assignment: Neural Networks for Linear Regression](./notebooks/lab3_w3_assignment.ipynb)
-- [Assignment: Solution](./notebooks/solution/lab3_w3_assignment_solved.ipynb)
+- [Assignment Solution](./notebooks/solution/lab3_w3_assignment_solved.ipynb)
 
 ## Learning Objectives
 
