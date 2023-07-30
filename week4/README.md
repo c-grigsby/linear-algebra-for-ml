@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../images/eigenvalue.svg" width="375" alt="Linear Algebra for ML">
+<img src="../images/eigenvalue-equation.png" width="375" alt="Linear Algebra for ML">
 
 </div>
 
