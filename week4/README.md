@@ -14,3 +14,7 @@ In this final week, you will take a deeper look at determinants. You will learn 
 - Determine the bases and span of vectors
 - Find eigenbases for a special type of linear transformations commonly used in machine learning
 - Calculate the eignenvalues and eigenvectors of a linear transformation (matrix)
+
+## Keynote
+
+- [Week 4 Slides](./slides/Week4-Linear-Algebra-Keynote.pdf)
