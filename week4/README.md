@@ -12,7 +12,7 @@ In this final week, you will take a deeper look at determinants. You will learn 
 
 - Interpret the determinant of a matrix as an area and calculate the determinant of an inverse of a matrix and a product of matrices
 - Determine the bases and span of vectors
-- Find eigenbases for a special type of linear transformations commonly used in machine learning
+- Find eigenbases for a special type of linear transformation commonly used in machine learning
 - Calculate the eignenvalues and eigenvectors of a linear transformation (matrix)
 
 ## Keynote
