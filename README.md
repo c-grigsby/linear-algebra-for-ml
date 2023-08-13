@@ -6,9 +6,9 @@
 
 Supporting labs and keynotes for the course _Linear Algebra for Machine Learning and Data Science_ from DeepLearning.AI
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
+<img src="images/powered-by-black-magic.svg"/>
+<img src="images/made-with-python.svg"/>
+<img src="images/thats-how-they-get-you.svg"/>
 
 ### [Week 1: Systems of Linear Equations](week1/README.md)
 
